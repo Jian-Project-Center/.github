@@ -2,7 +2,7 @@
 
 # Jian Project Center
 
-<img width="160" height="160" alt="Jian Project" src="https://raw.githubusercontent.com/Jian-Project-Center/jian11323.github.io/main/assets/logo-mark.png" />
+<img width="160" height="160" alt="Jian Project" src="https://raw.githubusercontent.com/Jian-Project-Center/.github/main/profile/logo-mark.png" />
 
 **纪安项目中心 · 开源仓库与协作入口**
 
