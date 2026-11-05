@@ -2,11 +2,16 @@
 
 # Jian Project Center
 
-<img width="160" height="160" alt="Jian Project" src="https://jian11323.github.io/assets/logo-mark.png" />
+<img width="160" height="160" alt="Jian Project" src="https://raw.githubusercontent.com/Jian-Project-Center/jian11323.github.io/main/assets/logo-mark.png" />
 
 **纪安项目中心 · 开源仓库与协作入口**
 
 计算机爱好者 · 自学编程 · 地震情报 / 实时数据 / 桌面客户端
+
+[![GitHub org followers](https://img.shields.io/github/followers/Jian11323?style=social&label=Follow%20Jian11323)](https://github.com/Jian11323)
+[![Stars](https://img.shields.io/github/stars/Jian-Project-Center?affiliations=OWNER&style=social)](https://github.com/Jian-Project-Center)
+
+[![Moe Counter](https://count.getloli.com/get/@Jian11323?theme=moebooru)](https://github.com/Jian-Project-Center)
 
 <p>
   <a href="https://sismotide.top/">sismotide.top</a> ·
