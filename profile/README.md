@@ -1,0 +1,71 @@
+<div align="center">
+
+# Jian Project Center
+
+<img width="160" height="160" alt="Jian Project" src="https://jian11323.github.io/assets/logo-mark.png" />
+
+**纪安项目中心 · 开源仓库与协作入口**
+
+计算机爱好者 · 自学编程 · 地震情报 / 实时数据 / 桌面客户端
+
+<p>
+  <a href="https://sismotide.top/">sismotide.top</a> ·
+  <a href="https://api.sismotide.top/">API 文档</a> ·
+  <a href="https://github.com/Jian11323">维护者 @Jian11323</a>
+</p>
+
+</div>
+
+---
+
+## 关于
+
+**Jian Project Center** 汇总 Jian Project 相关开源仓库：数据服务、桌面客户端，以及 CysTerra 等周边工具。
+
+欢迎浏览仓库、提 Issue / PR，或加入下方交流群。
+
+## 主要项目
+
+* 🌍 **[StarQuake](https://github.com/Jian-Project-Center/StarQuake)**  
+  纯 Rust 桌面端地震实时监看：多源预警 / 速报、地图波圈与测站烈度。  
+  介绍与下载：[sismotide.top/starquake](https://sismotide.top/starquake)
+
+* 🔌 **[Jian Project API](https://api.sismotide.top/)**  
+  多源 WebSocket / GET 数据服务：预警、速报、测站、气象等。  
+  文档入口：[api.sismotide.top](https://api.sismotide.top/)
+
+* 🧩 **CysTerra 扩展**  
+  - [JianProject.CysTerra](https://github.com/Jian-Project-Center/JianProject.CysTerra)  
+  - [Pancakes.CysTerra](https://github.com/Jian-Project-Center/Pancakes.CysTerra)  
+  - [CysTerra.ExtensionRepo](https://github.com/Jian-Project-Center/CysTerra.ExtensionRepo)
+
+* 📺 **[Rolling-Subtitle](https://github.com/Jian-Project-Center/Rolling-Subtitle)**  
+  地震情报滚动字幕（Python / PyQt5）
+
+* 🤖 **[astrbot_plugin_disaster_warning](https://github.com/Jian-Project-Center/astrbot_plugin_disaster_warning)**  
+  AstrBot 多源灾害预警推送插件
+
+## 技术栈
+
+- **客户端**: Rust · egui  
+- **服务端**: Go · WebSocket · MySQL  
+- **扩展 / 工具**: C# · Python  
+- **工程**: GitHub / Gitee 双端发版，文档与面板自建
+
+## 链接
+
+| | |
+|---|---|
+| 组织 | https://github.com/Jian-Project-Center |
+| 维护者 | https://github.com/Jian11323 |
+| 主站 | https://sismotide.top/ |
+| API | https://api.sismotide.top/ |
+| StarQuake | https://sismotide.top/starquake |
+| QQ 群 · API | [JianProject API服务交流群](https://qm.qq.com/q/NmIc3WbSUM) |
+| QQ 群 · 滚动字幕 | [滚动字幕用户群](https://qm.qq.com/q/ADlIoFEV2g) |
+| QQ 群 · StarQuake | [StarQuake用户群](https://qm.qq.com/q/2dz19Zedu8) |
+
+<div align="center">
+  <br>
+  <i>Talk is cheap. Show me the code.</i>
+</div>
