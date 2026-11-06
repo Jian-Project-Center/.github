@@ -15,6 +15,7 @@
 
 <p>
   <a href="https://sismotide.top/">sismotide.top</a> ·
+  <a href="mailto:jianproject@163.com">jianproject@163.com</a> ·
   <a href="https://api.sismotide.top/">API 文档</a> ·
   <a href="https://github.com/Jian11323">维护者 @Jian11323</a>
 </p>
@@ -62,6 +63,7 @@
 | | |
 |---|---|
 | 组织 | https://github.com/Jian-Project-Center |
+| 邮箱 | jianproject@163.com |
 | 维护者 | https://github.com/Jian11323 |
 | 主站 | https://sismotide.top/ |
 | API | https://api.sismotide.top/ |
